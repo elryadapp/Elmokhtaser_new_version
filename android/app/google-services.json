@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10849157104",
+    "project_id": "almokhtasar-5a325",
+    "storage_bucket": "almokhtasar-5a325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10849157104:android:79e80eedbf58cb6c2be735",
+        "android_client_info": {
+          "package_name": "com.example.elmokhtasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10849157104-k53kkih1geg2iu358m5m05pjjdl8144a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOUs-xC2zC8-mXculG4O7t1QlTN2yARE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10849157104-k53kkih1geg2iu358m5m05pjjdl8144a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
